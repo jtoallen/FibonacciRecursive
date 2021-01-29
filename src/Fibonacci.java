@@ -27,18 +27,6 @@ public class Fibonacci {
         System.out.println("Number of method calls made = " + recursionCount);
         System.out.println("Seconds used for this calculation = " +
                 (EndTime - BeginTime) / 1000.0);
-
-//        System.out.println(fibonacci(1));
-//        System.out.println(fibonacci(2));
-//        System.out.println(fibonacci(3));
-//        System.out.println(fibonacci(4));
-//        System.out.println(fibonacci(5));
-//        System.out.println(fibonacci(6));
-//        System.out.println(fibonacci(7));
-//        System.out.println(fibonacci(8));
-//        System.out.println(fibonacci(9));
-//        System.out.println(fibonacci(10));
-//        System.out.println(fibonacci(11));
     }
 
     public static long fibonacci(long num) {
